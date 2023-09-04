@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ●  🧙🏾‍♂️ Hi, I'm Luis Bello V.
+
 ●  💻 I'm interested in Embedded Systems, Cloud Systems, Web Development, Network Engineering, and OS Systems.
+
 ●  🔑 Looking to collaborate on projects that blends creativity and computer technology 
+
 ●  🔭 I’m pursuing a Bachelor's Degree in Electrical and Computer Engineering
